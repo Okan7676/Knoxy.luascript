@@ -6439,6 +6439,7 @@ SKN = gg.multiChoice({
 "᚛🏜️᚜ Çöl Fosili AKM \n╚❑[ʟᴏʙɪ + Oʏᴜɴ]",
 "᚛🌟᚜ Firavun Seti \n╚❑[ʟᴏʙɪ + Oʏᴜɴ]",
 "᚛🕯️᚜ Mumya Setiʸᵉⁿⁱ \n╚❑[ʟᴏʙɪ + Oʏᴜɴ]",
+"᚛🦹᚜ Maskara Setiʸᵉⁿⁱ \n╚❑[ʟᴏʙɪ + Oʏᴜɴ]",
 "᚛🌟᚜ Sarı Mumya Seti \n╚❑[ʟᴏʙɪ + Oʏᴜɴ]",
 "᚛😘᚜ Öpücük Çanta \n╚❑[ʟᴏʙɪ + Oʏᴜɴ]",
 "᚛🔥᚜ Anubis Kask \n╚❑[ʟᴏʙɪ + Oʏᴜɴ]",
@@ -6465,20 +6466,34 @@ if SKN[6] == true then
 mumya()
 end
 if SKN[7] == true then
-sarimumya()
+mas()
 end
 if SKN[8] == true then
-opucuk()
+sarimumya()
 end
 if SKN[9] == true then
-anubis()
+opucuk()
 end
 if SKN[10] == true then
+anubis()
+end
+if SKN[11] == true then
 HOME()
 end
 end
 ggwp = -31
 end
+
+
+function mas()
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("10100100", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("10100100", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("1101001116", gg.TYPE_DWORD)
+gg.clearResults() 
+gg.toast(" 🦹 ᴍᴀsᴋᴀʀᴀ sᴇᴛɪ ᴀᴋᴛɪғ 🦹")
 
 function anubis()
 gg.clearResults()
