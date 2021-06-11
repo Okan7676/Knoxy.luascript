@@ -2113,123 +2113,96 @@ gg.searchNumber("582749752655872;620137442967552", gg.TYPE_QWORD)
 gg.refineNumber("582749752655872", gg.TYPE_QWORD)
 gg.getResults(50000)
 gg.editAll("288233678981562368", gg.TYPE_QWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("565157566611456;566257078239232", gg.TYPE_QWORD)
-gg.refineNumber("565157566611456", gg.TYPE_QWORD)
-gg.getResults(50000)
-gg.editAll("288233678981562368", gg.TYPE_QWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("17,592,186,044,416;582749752655872", gg.TYPE_QWORD)
-gg.refineNumber("17,592,186,044,416", gg.TYPE_QWORD)
-gg.getResults(50000)
-gg.editAll("288233678981562368", gg.TYPE_QWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("577252194516992;288233678981562368", gg.TYPE_QWORD)
-gg.refineNumber("577252194516992", gg.TYPE_QWORD)
-gg.getResults(50000)
-gg.editAll("288233678981562368", gg.TYPE_QWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("578,351,706,144,768;578,351,706,144,768", gg.TYPE_QWORD)
-gg.refineNumber("578,351,706,144,768", gg.TYPE_QWORD)
-gg.getResults(50000)
-gg.editAll("288233678981562368", gg.TYPE_QWORD)
-gg.clearResults()
-gg.setVisible(false)
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("582749752655872;620137442967552", gg.TYPE_QWORD)
-gg.refineNumber("582749752655872", gg.TYPE_QWORD)
-gg.getResults(50000)
-gg.editAll("288232579469934592", gg.TYPE_QWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("565157566611456;566257078239232", gg.TYPE_QWORD)
-gg.refineNumber("565157566611456", gg.TYPE_QWORD)
-gg.getResults(50000)
-gg.editAll("288232579469934592", gg.TYPE_QWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("577252194516992;288233678981562368", gg.TYPE_QWORD)
-gg.refineNumber("577252194516992", gg.TYPE_QWORD)
-gg.getResults(50000)
-gg.editAll("288232579469934592", gg.TYPE_QWORD)
-gg.clearResults()
-gg.setVisible(false)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("133634;134914", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
-gg.refineNumber("133634", gg.TYPE_DWORD)
-gg.getResults(50000)
-gg.editAll("361418272522109953", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("132098;133635", gg.TYPE_DWORD)
-gg.refineNumber("132098", gg.TYPE_DWORD)
-gg.getResults(50000)
-gg.editAll("361418272522109953", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("4096;135682", gg.TYPE_DWORD)
-gg.refineNumber("4096", gg.TYPE_DWORD)
-gg.getResults(50000)
-gg.editAll("361418272522109953", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("131586", gg.TYPE_DWORD)
-gg.getResults(50000)
-gg.editAll("361418272522109953", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("361418272522109953;132098", gg.TYPE_DWORD)
-gg.refineNumber("361418272522109953", gg.TYPE_DWORD)
-gg.getResults(50000)
-gg.editAll("361418272522109953", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("133378;134914", gg.TYPE_DWORD)
-gg.refineNumber("133378", gg.TYPE_DWORD)
-gg.getResults(50000)
-gg.editAll("361418272522109953", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("131331;133634", gg.TYPE_DWORD)
-gg.refineNumber("131331", gg.TYPE_DWORD)
-gg.getResults(50000)
-gg.editAll("361418272522109953", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("133634;134658", gg.TYPE_DWORD)
-gg.refineNumber("133634", gg.TYPE_DWORD)
-gg.getResults(50000)
-gg.editAll("361418272522109953", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("134658;134658", gg.TYPE_DWORD)
-gg.refineNumber("134658", gg.TYPE_DWORD)
-gg.getResults(50000)
-gg.editAll("361418272522109953", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("132098;133635", gg.TYPE_DWORD)
-gg.refineNumber("132098", gg.TYPE_DWORD)
-gg.getResults(50000)
-gg.editAll("361418272522109953", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("134658;134658", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("134658", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.getResults(50000)
-gg.editAll("361418272522109953", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("135170;135170", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("135170", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.getResults(50000)
-gg.editAll("361418272522109953", gg.TYPE_DWORD)
-gg.clearResults()
+gg.clearResults()--HACKER
+gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_C_DATA | gg.REGION_ANONYMOUS | gg.REGION_BAD)--HACKER
+gg.clearResults()--HACKER
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER
+gg.searchNumber("582749752655872;620137442967552", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.refineNumber("582749752655872", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.getResults(90000)--HACKER
+gg.editAll("288233678981562369", gg.TYPE_QWORD)--HACKER
+gg.clearResults()--HACKER
+gg.searchNumber("565157566611456;566257078239232", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.refineNumber("565157566611456", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.getResults(90000)--HACKER
+gg.editAll("288233678981562369", gg.TYPE_QWORD)--HACKER
+gg.clearResults()--HACKER
+gg.searchNumber("567356589867008;620137442967552", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.refineNumber("567356589867008", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.getResults(90000)--HACKER
+gg.editAll("288233678981562369", gg.TYPE_QWORD)--HACKER
+gg.clearResults()--HACKER
+gg.searchNumber("4398046511104;13344463388672:29", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.refineNumber("4398046511104", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.getResults(90000)--HACKER
+gg.editAll("288233678981562369", gg.TYPE_QWORD)--HACKER
+gg.clearResults()--HACKER
+gg.searchNumber("577252194516992;288233678981562368", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.refineNumber("577252194516992", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.getResults(90000)--HACKER
+gg.editAll("288233678981562369", gg.TYPE_QWORD)--HACKER
+gg.clearResults()--HACKER
+gg.searchNumber("578351706144768;578351706144768", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.refineNumber("578351706144768", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.getResults(90000)--HACKER
+gg.editAll("288233678981562369", gg.TYPE_QWORD)--HACKER
+gg.clearResults()--HACKER
+gg.searchNumber("578351706144768;42949672960", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.refineNumber("578351706144768", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.getResults(90000)--HACKER
+gg.editAll("288233678981562369", gg.TYPE_QWORD)--HACKER
+gg.clearResults()--HACKER
+gg.searchNumber("70368744177664;288232579469934592", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.refineNumber("70368744177664", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.getResults(90000)--HACKER
+gg.editAll("288233678981562369", gg.TYPE_QWORD)--HACKER
+gg.clearResults()--HACKER
+gg.searchNumber("578351706144768;564058054983680", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.refineNumber("578351706144768", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.getResults(90000)--HACKER
+gg.editAll("288233678981562369", gg.TYPE_QWORD)--HACKER
+gg.clearResults()--HACKER
+gg.searchNumber("17592186044416;582749752655872", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.refineNumber("17592186044416", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.getResults(90000)--HACKER
+gg.editAll("288233678981562369", gg.TYPE_QWORD)--HACKER
+gg.clearResults()--HACKER
+gg.setRanges(gg.REGION_CODE_APP)--HACKER
+gg.searchNumber("911104607", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.searchNumber("911104607", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.refineNumber("911104607", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.getResults(90000)--HACKER
+gg.editAll("0", gg.TYPE_DWORD)--HACKER
+gg.clearResults()--HACKER
+gg.searchNumber("1734308723", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.refineNumber("1734308723", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.getResults(90000)--HACKER
+gg.editAll("0", gg.TYPE_DWORD)--HACKER
+gg.clearResults()--HACKER
+gg.searchNumber("1735681395", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.refineNumber("1735681395", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.getResults(90000)--HACKER
+gg.editAll("0", gg.TYPE_DWORD)--HACKER
+gg.clearResults()--HACKER
+gg.searchNumber("1718511967", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.refineNumber("1718511967", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.getResults(90000)--HACKER
+gg.editAll("0", gg.TYPE_DWORD)--HACKER
+gg.clearResults()--HACKER
+gg.searchNumber("1986225522", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.refineNumber("1986225522", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.getResults(90000)--HACKER
+gg.editAll("0", gg.TYPE_DWORD)--HACKER
+gg.clearResults()--HACKER
+gg.searchNumber("1734964063", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.refineNumber("1734964063", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.getResults(90000)--HACKER
+gg.editAll("0", gg.TYPE_DWORD)--HACKER
+gg.clearResults()--HACKER
+gg.searchNumber("16384;67108864", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.refineNumber("16384", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER
+gg.getResults(90000)--HACKER
+gg.editAll("0", gg.TYPE_DWORD)--HACKER
 gg.clearList()
 gg.getRangesList("libtersafe.so")
 gg.setValues({[1] = {['address'] = 0xe4f81fec,['flags'] = 16,['value'] = 0,},})
