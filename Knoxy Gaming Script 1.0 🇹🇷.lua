@@ -539,115 +539,430 @@ gg.clearResults()
 gg.searchNumber("578351706144768;578351706144768", gg.TYPE_QWORD)
 gg.refineNumber("578351706144768", gg.TYPE_QWORD)
 gg.getResults(50000)
-gg.editAll("288232579469934592", gg.TYPE_QWORD)
+gg.clearResults() --HACKER
+gg.setRanges(gg.REGION_C_ALLOC) --HACKER
+gg.setVisible(false) --HACKER
+gg.searchNumber(";com.tencent.ig", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1) --HACKER
+gg.refineNumber(";com.tencent.ig", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1, 0) --HACKER
+gg.getResults(0) --HACKER
+gg.editAll("0yl", gg.TYPE_FLOAT) --HACKER
+gg.clearResults() --HACKER
+gg.setRanges(gg.REGION_C_ALLOC) --HACKER
+gg.setVisible(false) --HACKER
+gg.searchNumber(";com.pubg.krmobile", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1) --HACKER
+gg.refineNumber(";com.pubg.krmobile", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1, 0) --HACKER
+gg.getResults(0) --HACKER
+gg.editAll("0lt", gg.TYPE_FLOAT) --HACKER
+gg.clearResults() --HACKER
+gg.setRanges(gg.REGION_C_ALLOC) --HACKER
+gg.setVisible(false) --HACKER
+gg.searchNumber(";com.vng.pubgmobile", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1) --HACKER
+gg.refineNumber(";com.vng.pubgmobile", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1, 0) --HACKER
+gg.getResults(0) --HACKER
+gg.editAll("0t=", gg.TYPE_FLOAT) --HACKER
+gg.clearResults() --HACKER
+gg.setRanges(gg.REGION_C_ALLOC) --HACKER
+gg.setVisible(false) --HACKER
+gg.searchNumber(";com.rekoo.pubgm", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1) --HACKER
+gg.refineNumber(";com.rekoo.pubgm", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1, 0) --HACKER
+gg.getResults(0) --HACKER
+gg.editAll("0tt", gg.TYPE_FLOAT) --HACKER
+gg.clearResults() --HACKER
+gg.setRanges(gg.REGION_C_ALLOC) --HACKER
+gg.setVisible(false) --HACKER
+gg.searchNumber("70368744177664ly;288233678981562368yl", gg.TYPE_QWORD) --HACKER
+gg.refineNumber("70368744177664", gg.TYPE_QWORD) --HACKER
+gg.getResults(0) --HACKER
+gg.editAll("288233678981562368gy", gg.TYPE_QWORD) --HACKER
+gg.clearResults() --HACKER
+gg.setRanges(gg.REGION_C_ALLOC) --HACKER
+gg.setVisible(false) --HACKER
+gg.searchNumber("578351706144768zg;564058054983680yz", gg.TYPE_QWORD) --HACKER
+gg.refineNumber("578351706144768", gg.TYPE_QWORD) --HACKER
+gg.getResults(0) --HACKER
+gg.editAll("288233678981562368t=", gg.TYPE_QWORD) --HACKER
+gg.clearResults() --HACKER
+gg.setRanges(gg.REGION_C_ALLOC) --HACKER
+gg.setVisible(false) --HACKER
+gg.searchNumber("582749752655872tg;620137442967552gg", gg.TYPE_QWORD) --HACKER
+gg.refineNumber("582749752655872", gg.TYPE_QWORD) --HACKER
+gg.getResults(0) --HACKER
+gg.editAll("288233678981562368g=", gg.TYPE_QWORD) --HACKER
+gg.clearResults() --HACKER
+gg.setRanges(gg.REGION_C_ALLOC) --HACKER
+gg.setVisible(false) --HACKER
+gg.searchNumber("620137442967552yy;579451217772544gt", gg.TYPE_QWORD) --HACKER
+gg.refineNumber("620137442967552", gg.TYPE_QWORD) --HACKER
+gg.getResults(0) --HACKER
+gg.editAll("288233678981562368tl", gg.TYPE_QWORD) --HACKER
+gg.clearResults() --HACKER
+gg.setRanges(gg.REGION_C_ALLOC) --HACKER
+gg.setVisible(false) --HACKER
+gg.searchNumber("566257078239232y=;573957954600960ly", gg.TYPE_QWORD) --HACKER
+gg.refineNumber("566257078239232", gg.TYPE_QWORD) --HACKER
+gg.getResults(0) --HACKER
+gg.editAll("288233678981562368==", gg.TYPE_QWORD) --HACKER
+gg.clearResults() --HACKER
+gg.setRanges(gg.REGION_C_ALLOC) --HACKER
+gg.setVisible(false) --HACKER
+gg.searchNumber("573953659633664=t;582749752655872yz", gg.TYPE_QWORD) --HACKER
+gg.refineNumber("573953659633664", gg.TYPE_QWORD) --HACKER
+gg.getResults(0) --HACKER
+gg.editAll("288233678981562368lz", gg.TYPE_QWORD) --HACKER
+gg.clearResults() --HACKER
+gg.setRanges(gg.REGION_C_ALLOC) --HACKER
+gg.setVisible(false) --HACKER
+gg.searchNumber("572854148005888l=;620137442967552=y", gg.TYPE_QWORD) --HACKER
+gg.refineNumber("572854148005888;", gg.TYPE_QWORD) --HACKER
+gg.getResults(0) --HACKER
+gg.editAll("288233678981562368zg", gg.TYPE_QWORD) --HACKER
+gg.clearResults() --HACKER
+gg.setRanges(gg.REGION_C_ALLOC) --HACKER
+gg.setVisible(false) --HACKER
+gg.searchNumber("196=g,864zt;16y=,842gy,753==::5tl", gg.TYPE_QWORD) --HACKER
+gg.refineNumber("196,864", gg.TYPE_QWORD) --HACKER
+gg.getResults(0) --HACKER
+gg.editAll("288233678981562368=t", gg.TYPE_QWORD) --HACKER
+gg.clearResults() --HACKER
+gg.setRanges(gg.REGION_C_ALLOC) --HACKER
+gg.setVisible(false) --HACKER
+gg.searchNumber("288233678981562368zz;288233678981562368zg", gg.TYPE_QWORD) --HACKER
+gg.refineNumber("288233678981562368", gg.TYPE_QWORD) --HACKER
+gg.getResults(0) --HACKER
+gg.editAll("288233678981562368tl", gg.TYPE_QWORD) --HACKER
+gg.clearResults() --HACKER
+gg.setRanges(gg.REGION_C_ALLOC) --HACKER
+gg.setVisible(false) --HACKER
+gg.searchNumber("565157566611456zt;566257078239232lz", gg.TYPE_QWORD) --HACKER
+gg.refineNumber("565157566611456", gg.TYPE_QWORD) --HACKER
+gg.getResults(0) --HACKER
+gg.editAll("288233678981562368tl", gg.TYPE_QWORD) --HACKER
+gg.clearResults() --HACKER
+gg.setRanges(gg.REGION_C_ALLOC) --HACKER
+gg.setVisible(false) --HACKER
+gg.searchNumber("562954248388607ly;578351706144768y=", gg.TYPE_QWORD) --HACKER
+gg.refineNumber("562954248388607", gg.TYPE_QWORD) --HACKER
+gg.getResults(0) --HACKER
+gg.editAll("288233678981562368zt", gg.TYPE_QWORD) --HACKER
+gg.clearResults() --HACKER
+gg.setRanges(gg.REGION_C_ALLOC) --HACKER
+gg.setVisible(false) --HACKER
+gg.searchNumber("4398046511104tg;544434349408256gg", gg.TYPE_QWORD) --HACKER
+gg.refineNumber("4398046511104", gg.TYPE_QWORD) --HACKER
+gg.getResults(0) --HACKER
+gg.editAll("288233678981562368yl", gg.TYPE_QWORD) --HACKER
+gg.clearResults() --HACKER
+gg.setRanges(gg.REGION_C_ALLOC) --HACKER
+gg.setVisible(false) --HACKER
+gg.searchNumber("577252194516992g=;288233678981562368ty", gg.TYPE_QWORD) --HACKER
+gg.refineNumber("577252194516992", gg.TYPE_QWORD) --HACKER
+gg.getResults(0) --HACKER
+gg.editAll("288233678981562368=l", gg.TYPE_QWORD) --HACKER
+gg.clearResults() --HACKER
+gg.setRanges(gg.REGION_C_ALLOC) --HACKER
+gg.setVisible(false) --HACKER
+gg.searchNumber("133634g=;134914gy", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1) --HACKER
+gg.refineNumber("133634", gg.TYPE_DWORD) --HACKER
+gg.getResults(0) --HACKER
+gg.editAll("131842t=", gg.TYPE_DWORD) --HACKER
+gg.clearResults() --HACKER
+gg.setRanges(gg.REGION_C_ALLOC) --HACKER
+gg.setVisible(false) --HACKER
+gg.searchNumber("132098zz;133635l=", gg.TYPE_DWORD) --HACKER
+gg.refineNumber("132098", gg.TYPE_DWORD) --HACKER
+gg.getResults(0) --HACKER
+gg.editAll("131842yg", gg.TYPE_DWORD) --HACKER
+gg.clearResults() --HACKER
+gg.setRanges(gg.REGION_C_ALLOC) --HACKER
+gg.setVisible(false) --HACKER
+gg.searchNumber("4096yz;135682=z", gg.TYPE_DWORD) --HACKER
+gg.refineNumber("4096", gg.TYPE_DWORD) --HACKER
+gg.getResults(0) --HACKER
+gg.editAll("131842zt", gg.TYPE_DWORD) --HACKER
+gg.clearResults() --HACKER
+gg.setRanges(gg.REGION_C_ALLOC) --HACKER
+gg.setVisible(false) --HACKER
+gg.searchNumber("131586l=", gg.TYPE_DWORD) --HACKER
+gg.getResults(0) --HACKER
+gg.editAll("131842=y", gg.TYPE_DWORD) --HACKER
+gg.clearResults() --HACKER
+gg.setRanges(gg.REGION_C_ALLOC) --HACKER
+gg.setVisible(false) --HACKER
+gg.searchNumber("131842ty;132098ll", gg.TYPE_DWORD) --HACKER
+gg.refineNumber("131842", gg.TYPE_DWORD) --HACKER
+gg.getResults(0) --HACKER
+gg.editAll("131842ly", gg.TYPE_DWORD) --HACKER
+gg.clearResults() --HACKER
+gg.setRanges(gg.REGION_C_ALLOC) --HACKER
+gg.setVisible(false) --HACKER
+gg.searchNumber("133378l=;134914yl", gg.TYPE_DWORD) --HACKER
+gg.refineNumber("133378", gg.TYPE_DWORD) --HACKER
+gg.getResults(0) --HACKER
+gg.editAll("131842y=", gg.TYPE_DWORD) --HACKER
+gg.clearResults() --HACKER
+gg.setRanges(gg.REGION_C_ALLOC) --HACKER
+gg.setVisible(false) --HACKER
+gg.searchNumber("131331zt;133634ty", gg.TYPE_DWORD) --HACKER
+gg.refineNumber("131331", gg.TYPE_DWORD) --HACKER
+gg.getResults(0) --HACKER
+gg.editAll("131842tg", gg.TYPE_DWORD) --\
+gg.clearResults() --HACKER
+gg.setRanges(gg.REGION_C_ALLOC) --HACKER
+gg.setVisible(false) --HACKER
+gg.searchNumber("133634gz;134658g=", gg.TYPE_DWORD) --HACKER
+gg.refineNumber("133634", gg.TYPE_DWORD) --HACKER
+gg.getResults(0) --HACKER
+gg.editAll("131842=z", gg.TYPE_DWORD) --HACKER
+gg.clearResults() --HACKER
+gg.setRanges(gg.REGION_C_ALLOC) --HACKER
+gg.setVisible(false) --HACKER
+gg.searchNumber("134658yl;134658t=", gg.TYPE_DWORD) --HACKER
+gg.refineNumber("134658", gg.TYPE_DWORD) --HACKER
+gg.getResults(0) --HACKER
+gg.editAll("131842tg", gg.TYPE_DWORD) --HACKER
+gg.clearResults() --HACKER
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber("70368744177664;288232579469934592", gg.TYPE_QWORD)--HACKER SİKTİ
+gg.refineNumber("70368744177664", gg.TYPE_QWORD)--HACKER SİKTİ
+gg.getResults(50000)--HACKER SİKTİ
+gg.editAll("361418272522109953", gg.TYPE_QWORD)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber("578351706144768;564058054983680", gg.TYPE_QWORD)--HACKER SİKTİ
+gg.getResultsCount()--HACKER SİKTİ
+gg.getFile()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber("70368744177664;288232579469934592", gg.TYPE_QWORD)--HACKER SİKTİ
+gg.refineNumber("70368744177664", gg.TYPE_QWORD)--HACKER SİKTİ
+gg.getResults(50000)--HACKER SİKTİ
+gg.editAll("361418272522109953", gg.TYPE_QWORD)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber("578351706144768;564058054983680", gg.TYPE_QWORD)--HACKER SİKTİ
+gg.refineNumber("578351706144768", gg.TYPE_QWORD)--HACKER SİKTİ
+gg.getResults(50000)--HACKER SİKTİ
+gg.editAll("361418272522109953", gg.TYPE_QWORD)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber("582749752655872;361418272522109953", gg.TYPE_QWORD)--HACKER SİKTİ
+gg.refineNumber("582749752655872", gg.TYPE_QWORD)--HACKER SİKTİ
+gg.getResults(50000)--HACKER SİKTİ
+gg.editAll("361418272522109953", gg.TYPE_QWORD)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber("565157566611456;566257078239232", gg.TYPE_QWORD)--HACKER SİKTİ
+gg.refineNumber("565157566611456", gg.TYPE_QWORD)--HACKER SİKTİ
+gg.getResults(50000)--HACKER SİKTİ
+gg.editAll("361418272522109953", gg.TYPE_QWORD)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber("17,592,186,044,416;582749752655872", gg.TYPE_QWORD)--HACKER SİKTİ
+gg.refineNumber("17,592,186,044,416", gg.TYPE_QWORD)--HACKER SİKTİ
+gg.getResults(50000)--HACKER SİKTİ
+gg.editAll("361418272522109953", gg.TYPE_QWORD)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.searchNumber("577252194516992;288232579469934592", gg.TYPE_QWORD)--HACKER SİKTİ
+gg.refineNumber("577252194516992", gg.TYPE_QWORD)--HACKER SİKTİ
+gg.getResults(5000)--HACKER SİKTİ
+gg.editAll("361418272522109953", gg.TYPE_QWORD)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.searchNumber("578351706144768;578351706144768", gg.TYPE_QWORD)--HACKER SİKTİ
+gg.refineNumber("578351706144768", gg.TYPE_QWORD)--HACKER SİKTİ
+gg.getResults(5000)--HACKER SİKTİ
+gg.editAll("361418272522109953", gg.TYPE_QWORD)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber("134658;134658", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.refineNumber("134658", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.getResults(50000)--HACKER SİKTİ
+gg.editAll("67109633", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber("131331;131331", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.refineNumber("131331", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.getResults(50000)--HACKER SİKTİ
+gg.editAll("67109633", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber("132098;133635", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.refineNumber("132098", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.getResults(50000)--HACKER SİKTİ
+gg.editAll("67109633", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber("852002;851986", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.refineNumber("851986", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.getResults(50000)--HACKER SİKTİ
+gg.editAll("67109633", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber("131075;131074", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.refineNumber("131074", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.getResults(50000)--HACKER SİKTİ
+gg.editAll("67109633", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber("196610;131076", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.refineNumber("196610", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.getResults(50000)--HACKER SİKTİ
+gg.editAll("67109633", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber("331107;196608", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.refineNumber("196608", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.getResults(50000)--HACKER SİKTİ
+gg.editAll("67109633", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber("262144;196611", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.refineNumber("262144", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.getResults(50000)--HACKER SİKTİ
+gg.editAll("67109633", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber("7077901", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.refineNumber("7077901", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.getResults(50000)--HACKER SİKTİ
+gg.editAll("67109633", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber(":.pak", gg.TYPE_BYTE)--HACKER SİKTİ
+gg.getResults(99999)--HACKER SİKTİ
+gg.editAll("116", gg.TYPE_BYTE)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber(":http://", gg.TYPE_BYTE)--HACKER SİKTİ
+gg.getResults(99999)--HACKER SİKTİ
+gg.editAll("116", gg.TYPE_BYTE)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber(":https://", gg.TYPE_BYTE)--HACKER SİKTİ
+gg.getResults(99999)--HACKER SİKTİ
+gg.editAll("116", gg.TYPE_BYTE)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber("133,378;262,403", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.refineNumber("133,378", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.getResults(50000)--HACKER SİKTİ
+gg.editAll("67109633", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber("133,890", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER SİKTİ
+gg.refineNumber("133,890", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER SİKTİ
+gg.getResults(50000)--HACKER SİKTİ
+gg.editAll("67109633", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber("131,331;131,586", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.refineNumber("131,331", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.getResults(50000)--HACKER SİKTİ
+gg.editAll("67109633", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber("134,146", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER SİKTİ
+gg.refineNumber("134,146", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER SİKTİ
+gg.getResults(50000)--HACKER SİKTİ
+gg.editAll("67109633", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber("133,634;134,914", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.refineNumber("133,634", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.getResults(50500)--HACKER SİKTİ
+gg.editAll("67109633", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber("134,402", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER SİKTİ
+gg.refineNumber("134,402", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER SİKTİ
+gg.getResults(50000)--HACKER SİKTİ
+gg.editAll("67109633", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber("132,098;133,635", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.refineNumber("132,098", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.getResults(50500)--HACKER SİKTİ
+gg.editAll("67109633", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber("7077901", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.refineNumber("7077901", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.getResults(50500)--HACKER SİKTİ
+gg.editAll("67109633", gg.TYPE_DWORD)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber(":tss", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0, -1)--HACKER SİKTİ
+gg.getResults(10000, nil, nil, nil, nil, nil, nil, nil, nil)--HACKER SİKTİ
+gg.editAll(":", gg.TYPE_BYTE)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber(":Tss", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0, -1)--HACKER SİKTİ
+gg.getResults(10000, nil, nil, nil, nil, nil, nil, nil, nil)--HACKER SİKTİ
+gg.editAll(":", gg.TYPE_BYTE)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber(":ss", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0, -1)--HACKER SİKTİ
+gg.getResults(10000, nil, nil, nil, nil, nil, nil, nil, nil)--HACKER SİKTİ
+gg.editAll(":", gg.TYPE_BYTE)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber(":TSS", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0, -1)--HACKER SİKTİ
+gg.getResults(10000, nil, nil, nil, nil, nil, nil, nil, nil)--HACKER SİKTİ
+gg.editAll(":", gg.TYPE_BYTE)--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber(":http://", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0, -1)--HACKER SİKTİ
+gg.getResults(10000, nil, nil, nil, nil, nil, nil, nil, nil)--HACKER SİKTİ
+gg.editAll(":", gg.TYPE_BYTE)--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber(":https://", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0, -1)--HACKER SİKTİ
+gg.getResults(10000, nil, nil, nil, nil, nil, nil, nil, nil)--HACKER SİKTİ
+gg.editAll(":", gg.TYPE_BYTE)--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber(":lobby.igamecj.com", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0, -1)--HACKER SİKTİ
+gg.getResults(10000, nil, nil, nil, nil, nil, nil, nil, nil)--HACKER SİKTİ
+gg.editAll(":", gg.TYPE_BYTE)--HACKER SİKTİ
+gg.setRanges(gg.REGION_C_ALLOC)--HACKER SİKTİ
+gg.searchNumber("300~50000;67109633;131330", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER SİKTİ
+gg.refineNumber("300~50000", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)--HACKER SİKTİ
+gg.getResults(50000)--HACKER SİKTİ
+gg.editAll("67,371,777", gg.TYPE_QWORD)--HACKER SİKTİ
+gg.clearResults()--HACKER SİKTİ
+gg.searchNumber("1400;0.10000000149;1000;88;60;30", gg.TYPE_FLOAT)
+gg.searchNumber("60", gg.TYPE_FLOAT)
+gg.getResults(100)
+gg.editAll("-64", gg.TYPE_FLOAT)
+gg.searchNumber("4,525,216,907,414,147,695", gg.TYPE_QWORD)
+gg.getResults(1401)
+gg.editAll("4,525,216,907,473,673,257", gg.TYPE_QWORD)
 gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("566257078239232;573957954600960", gg.TYPE_QWORD)
-gg.refineNumber("566257078239232", gg.TYPE_QWORD)
-gg.getResults(50000)
-gg.editAll("288232579469934592", gg.TYPE_QWORD)
+gg.searchNumber("-1,328,550,408,728,725,571", gg.TYPE_QWORD)
+gg.getResults(1401)
+gg.editAll("-1,328,550,408,576,460,390", gg.TYPE_QWORD)
 gg.clearResults()
-gg.searchNumber("573953659633664;582749752655872", gg.TYPE_QWORD)
-gg.refineNumber("573953659633664", gg.TYPE_QWORD)
-gg.getResults(50000)
-gg.editAll("288232579469934592", gg.TYPE_QWORD)
+gg.searchNumber("-1505254313802431360", gg.TYPE_QWORD)
+gg.getResults(1401)
+gg.editAll("-1505254313804899999", gg.TYPE_QWORD)
 gg.clearResults()
-gg.searchNumber("572854148005888;620137442967552", gg.TYPE_QWORD)
-gg.refineNumber("572854148005888;", gg.TYPE_QWORD)
-gg.getResults(50000)
-gg.editAll("288232579469934592", gg.TYPE_QWORD)
+gg.searchNumber("-1296744149883614555", gg.TYPE_QWORD)
+gg.getResults(1401)
+gg.editAll("-1296744149264269342", gg.TYPE_QWORD)
 gg.clearResults()
-gg.searchNumber("4398046511104;544434349408256", gg.TYPE_QWORD)
-gg.refineNumber("4398046511104", gg.TYPE_QWORD)
-gg.getResults(50000)
-gg.editAll("288232579469934592", gg.TYPE_QWORD)
+gg.searchNumber("-1.0530367e28;-5.8454586e27;-2.7860151e28;-3.7444097e28;-2.793752e28::", gg.TYPE_FLOAT)
+gg.searchNumber("-2.7860151e28;-3.7444097e28;-2.793752e28::", gg.TYPE_FLOAT)
+gg.getResults(1401)
+gg.editAll("0", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("70368744177664;288233678981562368", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("70368744177664", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.getResults(50000, nil, nil, nil, nil, nil, nil, nil, nil)
-gg.editAll("288515153958273024", gg.TYPE_QWORD)
+gg.searchNumber("-6.1526231e27;-1.0070975e28;::", gg.TYPE_FLOAT)
+gg.searchNumber("-6.1526231e27", gg.TYPE_FLOAT)
+gg.getResults(1401)
+gg.editAll("0", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("562954248388607;281483566645247", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("562954248388607", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.getResults(55000, nil, nil, nil, nil, nil, nil, nil, nil)
-gg.editAll("288515153958273024", gg.TYPE_QWORD)
+gg.searchNumber("-1585267064848315881", gg.TYPE_QWORD)
+gg.getResults(100)
+gg.editAll("-1585267068834414550", gg.TYPE_QWORD)
 gg.clearResults()
 gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("131842~590336;67109377;67109633;67109633", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("131842", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.getResults(50000, nil, nil, nil, nil, nil, nil, nil, nil)
-gg.editAll("724571", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("16384;4608", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("4608", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.getResults(55000, nil, nil, nil, nil, nil, nil, nil, nil)
-gg.editAll("84148993", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("133378;262403", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("133378", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.getResults(50000, nil, nil, nil, nil, nil, nil, nil, nil)
-gg.editAll("84148993", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("131331;131586", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("131331", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.getResults(50000, nil, nil, nil, nil, nil, nil, nil, nil)
-gg.editAll("84148993", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("133634;134914", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("133634", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.getResults(50000, nil, nil, nil, nil, nil, nil, nil, nil)
-gg.editAll("84148993", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("4096;135682", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("4096", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.getResults(50000, nil, nil, nil, nil, nil, nil, nil, nil)
-gg.editAll("84148993", gg.TYPE_DWORD)
-gg.clearResults()
-gg.searchNumber("269549593", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("269549593", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.getResults(100000)
-gg.editAll("84148993", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("132098;133635", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("132098", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.getResults(50000, nil, nil, nil, nil, nil, nil, nil, nil)
-gg.editAll("84148993", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("131330;131842", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("131842", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.getResults(50000, nil, nil, nil, nil, nil, nil, nil, nil)
-gg.editAll("84148993", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("134,658;131,586", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("134658", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.getResults(9999, nil, nil, nil, nil, nil, nil, nil, nil)
-gg.editAll("84148993", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setVisible(false)
-gg.setRanges(gg.REGION_CODE_APP)
-gg.searchNumber("1718511986;1718511967", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.getResults(99999, nil, nil, nil, nil, nil, nil, nil, nil)
-gg.editAll("84148993", gg.TYPE_DWORD)
-gg.clearResults()
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("582749752655872;620137442967552", gg.TYPE_QWORD)
-gg.refineNumber("582749752655872", gg.TYPE_QWORD)
-gg.getResults(50000)
-gg.editAll("361418272522109953", gg.TYPE_QWORD)
-gg.clearResults()
-gg.setVisible(false)
 gg.setRanges(gg.REGION_C_ALLOC)
 gg.searchNumber("565157566611456;566257078239232", gg.TYPE_QWORD)
 gg.refineNumber("565157566611456", gg.TYPE_QWORD)
